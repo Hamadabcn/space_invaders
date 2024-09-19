@@ -25,9 +25,9 @@ Make sure you have the following installed:
 To install Pygame, use: pip install pygame
 
 # Installing and Running the Game
-Clone the repository or download the game files.
-Ensure the assets folder contains all the required images for ships, lasers, and the background.
-Run the game by executing the main.py file: python main.py
+1. Clone the repository or download the game files: https://github.com/Hamadabcn/space_invaders.git
+2. Ensure the assets folder contains all the required images for ships, lasers, and the background.
+3. Run the game by executing the main.py file: python main.py
 
 # Assets Folder Structure
 The assets folder should contain the following image files:

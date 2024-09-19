@@ -41,7 +41,7 @@ The assets folder should contain the following image files:
 7. pixel_laser_blue.png
 8. pixel_laser_yellow.png
 9. background-black.png
-Make sure that the images are placed inside an assets folder in the same directory as the game script.
+10. Make sure that the images are placed inside an assets folder in the same directory as the game script.
 
 # How to Play
 1. Run the game, and a start screen will appear.
